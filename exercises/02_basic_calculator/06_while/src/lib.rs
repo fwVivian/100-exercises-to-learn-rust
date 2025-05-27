@@ -5,6 +5,7 @@ pub fn factorial(n: u32) -> u32 {
     // suppressing type errors.
     // It panics at runtime.
     todo!()
+    
 }
 
 #[cfg(test)]
